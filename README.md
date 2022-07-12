@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monyster
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning frontend skills.
+- 🌱 I’m currently learning frontend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? - Idk.
 
