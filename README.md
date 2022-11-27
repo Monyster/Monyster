@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matvey Voznosimenko aka Monyster
+- 👋 Hi, I’m Matvey Voznosimenko
 - 👀 I’m interested in web development.
 - 🌱 I am currently learning a Node.js based backend. I study building Rest APIs on the Express and Nest frameworks.
 - 📫 How to reach me?
