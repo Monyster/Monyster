@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matvey Voznosimenko
 - 👀 I’m interested in web development.
-- 🌱 I am currently learning a Node.js based backend. I study building Rest APIs on the Express and Nest frameworks.
+- 🌱 I am currently learning a FullStack techs.
 - 📫 How to reach me?
 - 📫 Telegram: https://t.me/Monyster         
 - 📫 E-Mail: m.voznosimenko@gmail.com 
