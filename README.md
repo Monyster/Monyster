@@ -1,12 +1,17 @@
 
-## 🙋‍♂️ About Me
+<div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>
 
-- 👋 Hi, I’m **Matvey Voznosimenko**
-- 👀 I’m interested in **web development**.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm **Matvey**.</h1>
+<h3 align="center">I'm a passionate about Learning New Technology field.</h3>
+
+
+## 🙋‍♂️ About Me
 - 🌱 I am currently learning a **Full-Stack technologies**.
 - 📫 How to reach me?
 - 📫 Telegram: https://t.me/Monyster         
 - 📫 E-Mail: m.voznosimenko@gmail.com 
+
+<br>
 
 ## 🚀 Technologies:
 
@@ -23,8 +28,5 @@
 
 ## Connect with me:
 
-<a href = "https://www.linkedin.com/in/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://twitter.com/darshankparmar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-<a href = "https://www.instagram.com/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
-<a href = "https://www.youtube.com/channel/UCFfOzjv9f09VMSZbMzPis2Q" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
-<a href = "mailto:darshanparmar263@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href = "https://www.linkedin.com/in/matvii-voznosimenko-3587b8258/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "mailto:m.voznosimenko@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
