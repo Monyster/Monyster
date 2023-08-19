@@ -2,14 +2,7 @@
 <div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Matvey.</h1>
-<h3 align="center">I'm a passionate about Learning New Technology field.</h3>
-
-
-## 🙋‍♂️ About Me
-- 🌱 I am currently learning a **Full-Stack technologies**.
-  
-## 📫 How to reach me?
-- 📫 Telegram: https://t.me/Monyster         
+<h3 align="center">I'm a passionate about Learning New Technology field.</h3> 
 
 <br>
 
@@ -30,3 +23,4 @@
 
 <a href = "https://www.linkedin.com/in/matvii-voznosimenko-3587b8258/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "mailto:m.voznosimenko@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<img src="https://icons8.ru/telegram-app" />
