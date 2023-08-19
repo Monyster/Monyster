@@ -23,4 +23,4 @@
 
 <a href = "https://www.linkedin.com/in/matvii-voznosimenko-3587b8258/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "mailto:m.voznosimenko@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<img src="https://icons8.ru/telegram-app" />
+<a href = "https://t.me/Monyster" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" /></a>
